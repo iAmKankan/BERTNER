@@ -1,7 +1,5 @@
 # Name Entity Recognition using BERT
 
-PROBLEM STAEMENT
-In this project we will be prforming one of the most famous task in the field of nautal language processing i,e Name Entity Recognition.
 
 ## DESCRIPTION OVERVIEW
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
