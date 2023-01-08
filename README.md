@@ -120,5 +120,5 @@ More data or better larger dataset can be used to build a better model. We can a
 ## Download Link & Reference
 ![deep](https://user-images.githubusercontent.com/12748752/181097747-f97a41d2-ebab-4295-8dae-fac47563a251.png)
 * [Drive](https://drive.google.com/drive/folders/1W34qcPjXOANpSE7tHGyZ-c1EV3ghAZuM?usp=sharing)
-* **Time**- _12-March-22,01:40:44_
+* **Time**- _12-March-22,1:40:44_
 
